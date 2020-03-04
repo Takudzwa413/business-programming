@@ -1,0 +1,106 @@
+what are the diffrent techniques impliemented in agile development?Write a comprehensive discussion highlighting the following:
+
+1.key feature of each technique
+2.key people
+3.advantages and disadvatages of each technique
+4.when to implement each over the others
+
+1.AGILE SCRUM METHODOLOGY
+ Scrum is a lightweight Agile project management framework that can be used to manage iterative and incremental projects of all types. It has gained increasing popularity over the years due to its simplicity, proven productivity, and ability to incorporate various overarching practices promoted by other Agile models.
+
+Advantages of Agile Scrum Methodology
+The Agile scrum sprint process facilitates excellent development that provides profitable and
+demanding product even while the software project is in full roll. Hence, this growing delivery
+system reduces the marketing and revenue earning time with each completed backlog.
+Additionally, review of each sprint before proceeding to the next sprint confirms that project
+testing helps teams to edit the project at any position.
+Also, the deadline agreement and budget are constants during the ongoing project needs as per
+approval of project manager.
+New project management method: The project manager will implement a new project
+management procedure for his/her team will face new exciting challenges. Hence, before
+committing to an Agile Scrum methodology, you need to consider all factors properly.
+
+Disadvantages of Agile Scrum Methodology
+Agile scrum has very much valuable advantages but it’s crucial to know the boundaries and risks of it.
+Documentations are harder for new members to increase the speed of performance.
+Apparently, you can’t measure the progress of the project accurately as it occurs across several cycles.
+Agile claims more energy and time from all involved person like developers and customers and interaction is mandatory.
+
+When to implement it
+The scrum framework itself is simple. The rules, artifacts, events, and roles are easy to understand. Its semi-prescriptive approach actually helps remove the ambiguities in the development process, while giving sufficient space for companies to introduce their individual flavor to it.
+
+2.Lean Software Development
+Lean Software Development is an iterative Agile methodology that focuses the team on delivering value to the customer through effective value stream mapping. It is a highly flexible, evolving methodology without rigid guidelines, rules, or methods
+the main feature of the Lean methodology include its eliminating waste and deciding as Late as Possible
+
+Advantages of Lean Software Development Methodology
+1.Learning quickly
+2. Measuring real customer behavior, rather than focus groups
+3. Becoming closer to your customer
+4. Focusing on actionable metrics
+5. Becoming comfortable with pivoting 
+
+Disadvantages of Lean Software Development Methodology
+ 1.Missed Deliveries
+ 2.Equipment or Labor Failure
+
+When to implement it 
+It provides the following:
+             High quality software
+             Creating knowledge
+             Flexibility in roles and tasks
+             Fast delivery
+             Respect to people
+             See the whole picture
+
+3.Kanban
+Kanban is a highly visual workflow management method that is popular among Lean teams. In fact, 83% of teams practicing Lean use Kanban to visualize and actively manage the creation of products with an emphasis on continual delivery, while not adding more stress to the software development life cycle. Like Scrum, Kanban is a process designed to help teams work together more effectively.
+The main feature on Kanban is visualize what you'll do today and limit the amount of work in progress
+
+Advantages of Kanban Methodology
+
+Kanban methodology increases the process flexibility.
+It reduces the wastes from the process.
+Kanban is easy to understand the methodology.
+It improves the delivery flow.
+It reduces the time cycle of the process.
+
+Disadvantages of Kanban Methodology
+
+Outdated Kanban board can lead to issues in the development process.
+Some time Kanban team make the board overcomplicate.
+Lack of timing is another disadvantage because there is no timeframes are associated with each phase.
+
+When to implement it
+it providesVisualize your current workflow.
+Apply Work-in-Process (WIP) limits.
+Make policies explicit.
+Manage and measure flow.
+Optimize iteratively with data.
+
+
+4.Extreme Programming (XP)
+Extreme Programming (XP), originally described by Kent Beck, has emerged as one of the most popular and controversial Agile models. XP is a disciplined approach for high-quality agile software development, focused on speed and continuous delivery. It is intended to improve software quality and responsiveness in the face of changing customer requirements.
+
+Advantages of  .Extreme Programming (XP) Methodology
+
+Simplicity is one more advantage of Extreme Programming projects. The developers who prefer to use this methodology create extremely simple code that can be improved at any moment.
+The whole process in XP is visible and accountable. Developers commit what they will accomplish and show progress.
+Constant feedback is also the strong side.It is necessary to listen and make any changes needed in time. 
+XP assists to create software faster thanks to the regular testing at the development stage.
+Extreme Programming contributes increasing employee satisfaction and retention.
+
+Disadvantages of  .Extreme Programming (XP) Methodology
+One more disadvantage of XP is that this methodology does not measure code quality assurance. It may cause defects in the initial code.
+XP is not the best option if programmers are separated geographically.
+5
+Crystal
+The Crystal methodology is one of the most lightweight, adaptable approaches to software development.
+Crystal is actually comprised of a family of Agile process models, including Crystal Clear, Crystal Yellow, Crystal Orange and others. Each has unique characteristics driven by several factors, such as team size, system criticality, and project priorities. This Crystal family addresses the realization that each project may require a slightly tailored set of policies, practices, and processes in order to meet the product ‘s unique characteristics
+
+
+6.Dynamic Systems Development Method (DSDM)
+The Dynamic Systems Development Method (DSDM) is an Agile approach that grew out of the need to provide a common industry framework for rapid software delivery. Since 1994, the DSDM methodology has evolved to provide a comprehensive foundation for planning, managing, executing, and scaling Agile process and iterative software development projects.
+DSDM is based on eight key principles that direct the team and create a mindset to deliver on time and within budget.
+DSDM have many kind of principles which are focus on the business need, deliver on time and also never compromise quality
+
